@@ -1,0 +1,5 @@
+spawn ruby split.rb
+To split a string, enter the string: hellowoorld
+Enter the split position: 3
+The first part is: hel
+and the second part is: lowoorld
